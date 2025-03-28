@@ -1,4 +1,4 @@
-# Evil Scripts
+# Offensive Scripts
 
 A collection of scripts written by me or modified versions of others' scripts, categorized by target or attack technique.
 
