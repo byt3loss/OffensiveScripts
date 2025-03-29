@@ -6,7 +6,7 @@ A collection of scripts written by me or modified versions of others' scripts, c
 
 ### CVE Exploits
 
-#### CVE-2025-45878
+#### CVE-2023-45878
 
 Chains and automates Arbitrary File Write to RCE on Gibbon LMS through [CVE-2023-45878](https://herolab.usd.de/security-advisories/usd-2023-0025/) exploitation.
 
@@ -16,7 +16,7 @@ The script performs the following steps:
 3. Downloads the reverse shell on the target
 4. Executes the reverse shell
 
-Usage: `CVE-2025-45878.sh <lhost> <lport> <rhost[:rport]>`.
+Usage: `CVE-2023-45878.sh <lhost> <lport> <rhost[:rport]>`.
 
 ### Python Werkzeug
 
