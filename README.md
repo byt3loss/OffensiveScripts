@@ -8,7 +8,7 @@ A collection of scripts written by me or modified versions of others' scripts, c
 <details>
 <summary><b>CVE Exploits</b></summary>
 
-#### [CVE-2023-45878](/CVE_Exploits/CVE-2023-45878_to_RCE/)
+#### CVE-2023-45878
 
 Chains and automates Arbitrary File Write to RCE on Gibbon LMS through [CVE-2023-45878](https://herolab.usd.de/security-advisories/usd-2023-0025/) exploitation.
 
