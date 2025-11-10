@@ -20,6 +20,10 @@ The script performs the following steps:
 
 Usage: `CVE-2023-45878.sh <lhost> <lport> <rhost[:rport]>`.
 
+#### [CVE-2025-24893](/CVE_Exploits/CVE-2025-24893/)
+
+Exploits XWiki RCE vulnerability and spawns a reverse shell on the target.
+
 </details>
 
 <details>
