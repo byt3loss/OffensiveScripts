@@ -55,3 +55,12 @@ Three Bash scripts exploiting an SSRF vulnerability in the THM's RabbitStore CTF
 - **Directory enumeration** - [dir_scanner.sh](/SSRF/SSRF_RabbitStore_CTF/dir_scanner.sh): brute-force directories on an internal service through SSRF
 
 </details>
+
+<details>
+<summary><b>Others</b></summary>
+
+#### [Gavel RCE](/Others/Gavel_RCE/README.md)
+
+RCE exploitation automation for HackTheBox's [Gavel](https://app.hackthebox.com/machines/Gavel) CTF. Drops a web shell on the target for more command execution freedom, then spawns a mkfifo reverse shell through it.
+
+</details>
