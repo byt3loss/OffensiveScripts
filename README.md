@@ -63,4 +63,8 @@ Three Bash scripts exploiting an SSRF vulnerability in the THM's RabbitStore CTF
 
 RCE exploitation automation for HackTheBox's [Gavel](https://app.hackthebox.com/machines/Gavel) CTF. Drops a web shell on the target for more command execution freedom, then spawns a mkfifo reverse shell through it.
 
+#### [pyAesCrypt - brute-forcer](/Others/pyAesCrypt_bruteforcer/README.md)
+
+Script to brute-force pyAesCrypt-encrypted files.
+
 </details>
